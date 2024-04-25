@@ -1,0 +1,32 @@
+#fetchUser{
+    margin-left: 47%;
+    width: 120px;
+    margin-bottom: 30px;
+    height: 30px;
+    border-radius: 5px;
+}
+#root{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px;
+    
+
+}
+
+#container {
+   /* border: 1px solid greenyellow; */
+   text-align: center;
+   padding: 10px;
+   line-height: 5px;
+   box-shadow: 4px 8px 4px 4px  gray;
+   border-radius: 10px;
+}
+#container img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+
+
